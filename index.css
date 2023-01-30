@@ -385,7 +385,7 @@ width:37%;
 
 .bases-col-2{
   width: 37%;
-  transform: translate(35em, 10px);
+  transform: translate(35em, -3em);
 }
 
 h1.bases-col-1{
@@ -493,6 +493,7 @@ footer img{
   display: flex;
   flex-direction: column;
   margin-bottom: -7em;
+  margin-top: 5em;
 }
 
 .footer-title{
